@@ -2,7 +2,7 @@ Hi there 👋
 
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/kngwk.bsns@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 
 

@@ -4,7 +4,7 @@ Hi there 👋
 
 <img src="https://img.shields.io/badge/kngwk.bsns@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvngwxxk&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvngwxxk&show_icons=true&theme=dark)
 
 
 

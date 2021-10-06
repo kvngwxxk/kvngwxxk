@@ -1,6 +1,6 @@
 Hi there 👋
 
-<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=iOS&logoColor=white"/><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white">
 
 [![Gmail Badge](https://img.shields.io/badge/kngwk.bsns@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kngwk.bsns@gmail.com)](mailto:kngwk.bsns@gmail.com)
 
